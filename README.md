@@ -1,3 +1,3 @@
-# Home Assistant Libs
+# .github
 
-Device libraries used by Home Assistant
+Hold common github settings for the organization.
